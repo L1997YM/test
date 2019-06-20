@@ -11,7 +11,7 @@
 	- 6.3 [Domain Models（领域模型）](documents/Requirement_specification/Domain_models.md)
 	- 6.4 [State Models（状态模型）](documents/Requirement_specification/State_models.md)
 	- 6.5 [System Sequence Diagrams（功能模型）](documents/Requirement_specification/System_sequence_diagrams.md)
-	- 6.6 [Supplementary Requirements（补充需求）](documnets/Requirement_specification/Supplementary_requirements.md)
+	- 6.6 [Supplementary Requirements（补充需求）](documents/Requirement_specification/Supplementary_requirements.md)
 7. Design(设计)
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](UI/login&register)
