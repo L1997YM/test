@@ -1,7 +1,7 @@
 # test
 
 1. [About（团队组建）](documents/about.md)
-2. [Team profile（团队组建）](documents/team_profile.md)
+2. [Team profile（团队组建）](documents/Team_profile.md)
 3. [Investigation（项目前期调研）](documents/Investigation.md)
 4. [Vision（项目愿景）](documents/Vision.md)
 5. [Product Backlog（产品特性）](documents/Product_backlog.md)
