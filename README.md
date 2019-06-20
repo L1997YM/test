@@ -9,7 +9,7 @@
 	- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](documents/Requirement_specification/Usecase_diagram.md)
 	- 6.2 [Use Cases（用例+活动图）](documents/Requirement_specification/Use_cases.md)
 	- 6.3 [Domain Models（领域模型）](documents/Requirement_specification/Domain_models.md)
-	- 6.4 [State Models（状态模型）](documnets/Requirement_specification/State_models.md)
+	- 6.4 [State Models（状态模型）](documents/Requirement_specification/State_models.md)
 	- 6.5 [System Sequence Diagrams（功能模型）](documnets/Requirement_specification/System_sequence_diagram.md)
 	- 6.6 [Supplementary Requirements（补充需求）](documnets/Requirement_specification/Supplementary_requirements.md)
 7. Design(设计)
