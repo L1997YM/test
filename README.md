@@ -7,7 +7,7 @@
 5. [Product Backlog（产品特性）](documents/Product_backlog.md)
 6. [Requirement specification(需求规格说明)](documents/Requirement_specification.md) 
 	- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](documents/Requirement_specification/Usecase_diagram.md)
-	- 6.2 [Use Cases（用例+活动图）](documnets/Requirement_specification/Use_cases.md)
+	- 6.2 [Use Cases（用例+活动图）](documents/Requirement_specification/Use_cases.md)
 	- 6.3 [Domain Models（领域模型）](documnets/Requirement_specification/Domain_models.md)
 	- 6.4 [State Models（状态模型）](documnets/Requirement_specification/State_models.md)
 	- 6.5 [System Sequence Diagrams（功能模型）](documnets/Requirement_specification/System_sequence_diagram.md)
