@@ -1,4 +1,4 @@
 # 邻域建模
 
-![](Requirement_image/Domain_models.png)
+![](Requirement_image/Domian_models.png)
 
