@@ -5,7 +5,7 @@
 3. [Investigation（项目前期调研）](documents/Investigation.md)
 4. [Vision（项目愿景）](documents/Vision.md)
 5. [Product Backlog（产品特性）](documents/Product_backlog.md)
-6. Requirement specification(需求规格说明)
+6. [Requirement specification(需求规格说明)](documents/Requirement_specification.md) 
 	- 6.1 [Usecase Diagram（用例图）](UseCases/README.md#用例图)
 	- 6.2 [Use Cases（用例+活动图）](UseCases/README.md#用例文本与活动图)
 	- 6.3 [Domain Model（领域模型）](image/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
