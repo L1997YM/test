@@ -6,7 +6,7 @@
 4. [Vision（项目愿景）](documents/Vision.md)
 5. [Product Backlog（产品特性）](documents/Product_backlog.md)
 6. [Requirement specification(需求规格说明)](documents/Requirement_specification.md) 
-	- 6.1 [Usecase Diagram（用例图）](documnets/Requirement_specification/Usecase_diagram.md)
+	- 6.1 [Usecase Diagram（用例图）](documents/Requirement_specification/Usecase_diagram.md)
 	- 6.2 [Use Cases（用例+活动图）](documnets/Requirement_specification/Use_case.md)
 	- 6.3 [Domain Model（领域模型）](documnets/Requirement_specification/Domain_model.md)
 	- 6.4 [State Model（状态模型）](documnets/Requirement_specification/State_model.md)
