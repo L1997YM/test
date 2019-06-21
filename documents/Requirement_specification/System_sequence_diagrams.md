@@ -1,5 +1,9 @@
 # 功能模型
 
+* 登录
+
+![](Requirement_image/System_sequence_diagrams8.png)
+
 * 创建问卷
 
 ![](Requirement_image/System_sequence_diagrams1.png)
