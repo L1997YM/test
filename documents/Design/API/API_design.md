@@ -5,3 +5,7 @@
 [微信小程序API官方文档](https://developers.weixin.qq.com/miniprogram/dev/api/)
 
 除此之外，定义了两个云函数，分别是用于登录的"login"和回答问卷时用于提交的"submitQuestionaire"。
+
+## 用户登录
+
+使用微信小程序接口wx.login来获取code，再将code作为登录凭证进行请求。
