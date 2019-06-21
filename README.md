@@ -19,16 +19,8 @@
 	- 7.4 [Architecture design（架构设计）](documents/Design/Architecture/Architecture_design.md)
 	- 7.5 [Usecase design（用例设计）](documents/Design/Usecase/Usecase_design.md)
 8. 生产规范与指南
-	- 8.1 代码规范
-		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
-		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
-		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
-	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
-	- 8.3 [逻辑架构到应用程序映射指南(BCE)](documents/BCE.md)
-	- 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用(容器编排)](documents/8.4.md)
-9. 测试
-    - 9.1 [测试方案](documents/测试方案.md)
-    - 9.2 [后端API测试报告](documents/后端api测试报告.md)
-    - 9.3 [综合测试报告](documents/综合测试报告.md)
-    - 9.4 [回归测试报告](documents/回归测试报告.md)
-10. [产品效果演示](documents/display.md)
+	- 8.1 [代码规范](documents/Production_specification/Code_specification.md)
+	- 8.2 [REST API 设计规范](documents/Production_specification/)
+	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/Production_specification/BCE.md)
+	- 8.4 [部署说明](documents/Production_specification/Deployment_instructions.md)
+9. [成品展示](documents/display.md)
