@@ -13,10 +13,7 @@
 	- 6.5 [System Sequence Diagrams（功能模型）](documents/Requirement_specification/System_sequence_diagrams.md)
 	- 6.6 [Supplementary Requirements（补充需求）](documents/Requirement_specification/Supplementary_requirements.md)
 7. Design(设计)
-	- 7.1 UI design
-		- [PC端登录注册流程UI设计](UI/login&register)
-		- [小程序移动端全部UI](UI/移动端全部)
-		- [PC端剩余全部UI](UI/PC端除登录注册)
+	- 7.1 [UI design（界面设计）](UI/UI_design.md)
 	- 7.2 Database design
 		- 7.2.1 [用户及权限系统数据库设计](ER)
 		- 7.2.2 [扫码点餐系统数据库设计](ER/ER.png)
