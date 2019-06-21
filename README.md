@@ -15,8 +15,7 @@
 7. Design(设计)
 	- 7.1 [UI design（界面设计）](documents/Design/UI/UI_design.md)
 	- 7.2 [Database design（数据库设计）](documents/Design/Database)
-	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
-	    - [API说明书](documents/API_Manual.md)
+	- 7.3 [Interface API design（接口 API 设计）](documents/Design/API/API_design.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
 	- 7.5 Usecase Design
 		- 7.5.1 [点餐用例设计](DetailDesign/make_order.md)
