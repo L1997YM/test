@@ -26,6 +26,7 @@
 
 ![](UI_image/login.png)
 
+logo来源：[logofree.cn](http://www.logofree.cn/)
 ## 我的
 
 ![](UI_image/mine.png)
