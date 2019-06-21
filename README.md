@@ -13,11 +13,8 @@
 	- 6.5 [System Sequence Diagrams（功能模型）](documents/Requirement_specification/System_sequence_diagrams.md)
 	- 6.6 [Supplementary Requirements（补充需求）](documents/Requirement_specification/Supplementary_requirements.md)
 7. Design(设计)
-	- 7.1 [UI design（界面设计）](UI/UI_design.md)
-	- 7.2 Database design
-		- 7.2.1 [用户及权限系统数据库设计](ER)
-		- 7.2.2 [扫码点餐系统数据库设计](ER/ER.png)
-		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues?q=is%3Aissue+is%3Aclosed)
+	- 7.1 [UI design（界面设计）](documents/Design/UI/UI_design.md)
+	- 7.2 [Database design（数据库设计）](documents/Design/Database)
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
