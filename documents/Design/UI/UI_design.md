@@ -31,6 +31,8 @@ logo来源：[logofree.cn](http://www.logofree.cn/)
 
 ![](UI_image/mine.png)
 
+图标来源：[阿里图标库](https://www.iconfont.cn/)
+
 ## 新建问卷
 
 ![](UI_image/newQuestionaire1.png)
@@ -72,3 +74,4 @@ logo来源：[logofree.cn](http://www.logofree.cn/)
 ## 关于
 
 ![](UI_image/about.png)
+logo来源：[logofree.cn](http://www.logofree.cn/)
