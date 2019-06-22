@@ -1,5 +1,7 @@
 # 功能模型
-
+| 版本 | 日期 | 描述 | 作者 |
+| - | - | - | - |
+| v1.2 | 2019.5.4 | 功能模型 | LLP |
 * 登录
 
 ![](Requirement_image/System_sequence_diagrams8.png)
