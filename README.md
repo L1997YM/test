@@ -5,7 +5,7 @@
 3. [Investigation（项目前期调研）](documents/Investigation.md)
 4. [Vision（项目愿景）](documents/Vision.md)
 5. [Product Backlog（产品特性）](documents/Product_backlog.md)
-6. [Requirement specification(需求规格说明)](documents/Requirement_specification.md) 
+6. Requirement specification(需求规格说明)
 	- 6.1 [Usecase Diagram and UML Activity Diagram（用例图，业务过程/多泳道图）](documents/Requirement_specification/Usecase_diagram.md)
 	- 6.2 [Use Cases（用例+活动图）](documents/Requirement_specification/Use_cases.md)
 	- 6.3 [Domain Models（领域模型）](documents/Requirement_specification/Domain_models.md)
