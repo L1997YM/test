@@ -1,4 +1,7 @@
-# Iteration1 meeting 
+# Iteration2 meeting 
+| 版本 | 日期 | 描述 | 作者 |
+| - | - | - | - |
+| v1.1 | 2019.5.5 | 第二次迭代会议 | LLP |
 ## Week 10 - May. 5
 ## 签到
 到会人员： LYM LJY LLP LYS
