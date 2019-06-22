@@ -25,4 +25,8 @@
 	- 8.4 [部署说明](documents/Production_specification/Deployment_instructions.md)
 9. [成品展示](documents/Demonstration.md)
 
-X1 [meeting-records](docments/Meeting_records/Meeting_records.md)
+X1 meeting-records
+   - [Inception meeting()](docments/Meeting_records/Inception_meeting.md)
+   - [Iteration1 meeting()](docments/Meeting_records/Iteration1_meeting.md)
+   - [Iteration2 meeting()](docments/Meeting_records/Iteration2_meeting.md)
+   - [Iteration3 meeting()](docments/Meeting_records/Iteration3_meeting.md)
