@@ -5,9 +5,9 @@
 本项目希望打造的是一个面向大学生的，以发布和填写调查问卷为主要功能的微信小程序。与市面上的其他调查问卷发布平台的不同点在于，本项目可以定向发布问卷，即问卷发布人可以指定接收到调查问卷的学生群体，提高问卷结果的来源精准性。此外，依托与本项目针对本校大学生的特点，我们对项目增加了额外的寻物启事功能，帮助同学们寻找自己丢失的物品。
 
 ## 重要分析设计文档
-* [需求规格说明书](documents/Requirement_specification/Requirement_specification.md)
-* [软件设计说明书](documents/Design/Design.md)
-* [产品演示视频](documents/Demonstration.md)
+* [需求规格说明书](Requirement_specification/Requirement_specification.md)
+* [软件设计说明书](Design/Design.md)
+* [产品演示视频](Demonstration.md)
 
 ## 敏捷开发迭代管理与大事纪
 
