@@ -24,3 +24,4 @@
 	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/Production_specification/BCE.md)
 	- 8.4 [部署说明](documents/Production_specification/Deployment_instructions.md)
 9. [成品展示](documents/Demonstration.md)
+X1 [meeting-records](docments/Meeting_records/Meeting_records.md)
