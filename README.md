@@ -1,6 +1,6 @@
 # test
 
-1. [About（团队组建）](documents/about.md)
+1. [About（项目概况）](documents/about.md)
 2. [Team profile（团队组建）](documents/Team_profile.md)
 3. [Investigation（项目前期调研）](documents/Investigation.md)
 4. [Vision（项目愿景）](documents/Vision.md)
