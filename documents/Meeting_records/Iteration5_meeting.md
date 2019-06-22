@@ -1,7 +1,7 @@
 # Iteration5 meeting 
 | 版本 | 日期 | 描述 | 作者 |
 | - | - | - | - |
-| v1.1 | 2019.6.9 | 第五次迭代会议 | LLP |
+| v1.1 | 2019.6.9 | 第五次迭代会议 | LYM |
 ## Week 15 - June. 9
 ## 签到
 到会人员： LYM LJY LLP LYS
