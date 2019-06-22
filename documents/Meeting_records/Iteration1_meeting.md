@@ -1,7 +1,7 @@
 # Iteration1 meeting 
 | 版本 | 日期 | 描述 | 作者 |
 | - | - | - | - |
-| v1.1 | 2019.4.21 | 第一次迭代会议 | LLP |
+| v1.1 | 2019.4.21 | 第一次迭代会议 | LYM |
 ## Week 8 - April. 21
 ## 签到
 到会人员： LYM LJY LLP LYS
