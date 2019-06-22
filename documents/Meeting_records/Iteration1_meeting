@@ -8,8 +8,8 @@
 * 项目愿景
 * UI design
 ## 讨论问题
-### 开发平台
-微信开发者工具云开发模式
+### 代码规范
+![代码规范文档](../Production_specification/Code_specification.md)
 ### 本阶段工作
-时间：Week7 ~ Week8
-内容：项目的前期调研；分析同类产品特点；确定项目需求；项目主体UI设计
+时间：Week9 ~ Week10
+内容：用户登录、修改个人信息、个人页面
