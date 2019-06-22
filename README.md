@@ -23,4 +23,4 @@
 	- 8.2 [REST API 设计规范]()
 	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/Production_specification/BCE.md)
 	- 8.4 [部署说明](documents/Production_specification/Deployment_instructions.md)
-9. [成品展示](documents/display.md)
+9. [成品展示](documents/Demonstration.md)
