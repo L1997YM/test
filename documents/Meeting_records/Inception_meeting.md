@@ -1,4 +1,7 @@
 # Inception meeting 
+| 版本 | 日期 | 描述 | 作者 |
+| - | - | - | - |
+| v1.1 | 2019.4.13 | 启动会议 | LLP |
 ## Week 7 - April. 13
 ## 签到
 到会人员： LYM LJY LLP LYS
